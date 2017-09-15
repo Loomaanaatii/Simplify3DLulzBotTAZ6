@@ -12,4 +12,4 @@ I will be testing:
 - MG Chemicals ABS
 - LulzBot ABS
 
-As soon as I have completed the test I will upload them here.
+As soon as I have completed the tests I will upload them here.
